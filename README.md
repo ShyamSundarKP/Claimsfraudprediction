@@ -90,9 +90,6 @@ Enhance explainability with SHAP/LIME.
 
 Deploy fraud detection as a REST API service.
 
-🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
 
 📜 License
 
